@@ -6,7 +6,7 @@ This project was a 'guided project' as part of learning data analytics with [Dat
 
 ## Results
 
-To display the result, simply [click the .ipynb file](https://github.com/jasperquak/clean_analyze_employee_exit_surveys/blob/main/CleanAnalyzeEmployeeExitSurveys.ipynb) in this repository. It will open in a Notebook viewer.
+To display the result, simply [click the .ipynb file](https://github.com/jasperquak/popular_data_science_questions/blob/main/PopularDataScienceQuestions.ipynb) in this repository. It will open in a Notebook viewer.
 
 ## Reproduction
 
